@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpProj\\MyLuckyTicket\\MyLuckyTicket.csproj",
+      "projectUniqueName": "C:\\Users\\ponomarev_a\\Desktop\\test\\MyLuckyTicket\\MyLuckyTicket.csproj",
       "projectName": "MyLuckyTicket",
-      "projectPath": "E:\\CSharpProj\\MyLuckyTicket\\MyLuckyTicket.csproj",
+      "projectPath": "C:\\Users\\ponomarev_a\\Desktop\\test\\MyLuckyTicket\\MyLuckyTicket.csproj",
       "packagesPath": "C:\\Users\\ponomarev_a\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpProj\\MyLuckyTicket\\obj\\",
+      "outputPath": "C:\\Users\\ponomarev_a\\Desktop\\test\\MyLuckyTicket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ponomarev_a\\AppData\\Roaming\\NuGet\\NuGet.Config"

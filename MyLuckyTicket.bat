@@ -1,3 +1,3 @@
 @echo off 
-dotnet run
+dotnet run --configuration Release
  
