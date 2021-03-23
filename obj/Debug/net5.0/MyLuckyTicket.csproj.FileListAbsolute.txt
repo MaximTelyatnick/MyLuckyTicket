@@ -1,0 +1,16 @@
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.exe
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.deps.json
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.runtimeconfig.json
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.runtimeconfig.dev.json
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.dll
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\ref\MyLuckyTicket.dll
+E:\CSharpProj\MyLuckyTicket\bin\Debug\net5.0\MyLuckyTicket.pdb
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.csprojAssemblyReference.cache
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.AssemblyInfoInputs.cache
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.AssemblyInfo.cs
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.csproj.CoreCompileInputs.cache
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.dll
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\ref\MyLuckyTicket.dll
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.pdb
+E:\CSharpProj\MyLuckyTicket\obj\Debug\net5.0\MyLuckyTicket.genruntimeconfig.cache
